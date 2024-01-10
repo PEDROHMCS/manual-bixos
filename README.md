@@ -25,7 +25,7 @@ npm install
 Para iniciar um servidor local utilize:
 
 ```bash
-npm run dev
+npx run dev
 ```
 
 Caso algum erro ocorra no processo, você não tem alguma biblioteca necessária instalada. Jogue o erro no Google e você achará a solução rapidamente.
